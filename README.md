@@ -1,0 +1,2 @@
+# Kaggle Histopathologic Cancer Detection
+Solving the Kaggle [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection/overview) Challenge to create an algorithm to identify metastatic cancer in small image patches taken from larger digital pathology scans.
