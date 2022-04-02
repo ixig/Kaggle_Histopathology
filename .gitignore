@@ -1,5 +1,6 @@
 .DS_Store
 data/
+kaggle_histopathology/data.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
